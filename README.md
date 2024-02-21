@@ -1,0 +1,1 @@
+KiCad symbols storageplace
